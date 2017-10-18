@@ -1,3 +1,3 @@
 # IPLookup
 
-Usage of IPLookup: IPLookup <hostname>
+Usage of IPLookup: IPLookup [-r] <hostname | ipaddr>
